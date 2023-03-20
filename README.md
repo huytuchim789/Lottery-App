@@ -18,7 +18,7 @@
 
 ## Demo
 
-Checkout the [demo here](https://web3-dapp-crypto-lottery.vercel.app/)
+Checkout the [demo here]()
 
 ### Sign In Using MetaMask Wallet
 
