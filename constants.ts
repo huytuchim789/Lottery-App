@@ -1,1 +1,1 @@
-export const currency = "ETH";
+export const currency = "MATIC";

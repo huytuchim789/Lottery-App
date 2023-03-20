@@ -6,7 +6,7 @@ import { GlobalProvider } from "../context/GlobalContext";
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
-    <ThirdwebProvider  activeChain="goerli">
+    <ThirdwebProvider activeChain="mumbai">
       <GlobalProvider>
         <Component {...pageProps} />
         <Toaster />
